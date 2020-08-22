@@ -1,0 +1,57 @@
+.main-nav {
+    height: 60px;
+    background-color: coral;
+}
+.main-nav ul {
+    border: 1px solid grey;
+    padding: 0;
+}
+.main-nav li {
+    background-color: peachpuff;
+    display:inline-block;
+    padding: 20px 30px;
+    margin-left: 0;
+    color: white;
+
+}
+.left-side {
+    width: 27%;
+    float: left;
+}
+
+.main-content {
+    width: 70%;
+    float: right;
+}
+
+.profile-image {
+    float: left;
+    margin-right: 25px;
+    width: 100%;
+    margin: 30px;
+}
+.action-heading {
+    clear: both;
+    padding: 40px 20px;
+    margin: 0 auto;
+}
+.actionshot {
+    display: inline-block;
+    margin-right: 25px
+}
+.actionshot img {
+    width: 100%;
+    margin-right: 30px;
+}
+
+/*left side section */
+.left-side {
+    border: 1px solid grey;
+    padding: 1%;
+}
+.pet-name {
+    width: 50%
+}
+.pet-name p {
+    text-align: center;
+}
